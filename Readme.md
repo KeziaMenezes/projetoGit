@@ -1,1 +1,3 @@
 olá esse projeto ensina voce a usar o Git...
+
+consegui enviar o repositorio local para o github
